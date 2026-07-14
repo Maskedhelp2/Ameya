@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import "./globals.css";
+import "./global.css";
 
 export const metadata: Metadata = {
   title: "Ameya Sonic Opteo System — Innovating for Parkinson's Care",
