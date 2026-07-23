@@ -148,7 +148,7 @@ export default function HomePage() {
           <p className="eyebrow">CORPORATE OFFICE</p>
           <p><strong>AMEYA SONIC OPTEO SYSTEMS</strong></p>
           <p>RZ-105, Near Mahendra Park, C1 Block, Janakpuri, Uttam Nagar, West Delhi – 110059, India</p>
-          <p>Mobile: 8285661231 &nbsp;|&nbsp; Email: <a href="mailto:ersweetygupta3@gmail.com">ersweetygupta3@gmail.com</a></p>
+          <p>Mobile: 8285661231 &nbsp;|&nbsp; Email: <a href="mailto:contact@ameyasonicopteosystem.com">contact@ameyasonicopteosystem.com</a></p>
         </div>
       </section>
 

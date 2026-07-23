@@ -7,9 +7,9 @@ export default function Header() {
       <div className="nav-wrap">
         <Link href="/" className="logo-group">
           <Image
-            src="/images/logo-icon.jpeg"
+            src="/images/logo-banner.jpeg"
             alt="Ameya Sonic Opteo System logo"
-            width={48}
+            width={120}
             height={48}
             className="logo-icon"
           />

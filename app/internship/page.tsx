@@ -2,7 +2,7 @@ export default function InternshipPage() {
   return (
     <section className="internship page-section">
       <p className="eyebrow">OPPORTUNITIES</p>
-      <h2>6-Month Online Internship Program</h2>
+      <h2>2-Month & 3-Month Online Internship Program</h2>
       <span className="divider"></span>
       <p className="lead">
         Ameya Sonic Opteo System offers a hands-on, fully online internship for college students
@@ -12,7 +12,7 @@ export default function InternshipPage() {
 
       {/* Program Details */}
       <div className="internship-details-bar">
-        <span>📅 Duration: 6 Months</span>
+        <span>📅 Duration: 2 Months / 3 Months</span>
         <span>💻 Mode: Fully Online</span>
         <span>🎓 Eligibility: College Students</span>
         <span>💰 Stipend: Unpaid</span>
